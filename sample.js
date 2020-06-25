@@ -2,3 +2,9 @@
 
 
 //create this function
+
+function sample(){
+  console.log('hello world');
+}
+
+sample();
